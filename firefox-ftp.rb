@@ -1,4 +1,4 @@
-cask "firefox-ftp" do
+cask "firefox" do
   version "131.0.3"
 
   language "af" do
