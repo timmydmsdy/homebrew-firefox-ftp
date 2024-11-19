@@ -1,5 +1,5 @@
 cask "firefox" do
-  version "132.0.1"
+  version "132.0.2"
 
   language "af" do
     sha256 "01de08b317972089c8a3e999f35f74bb3771d6d63c2eddeca4d7e8fff509cd23"
